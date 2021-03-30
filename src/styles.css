@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: "Fira code", "Open sans", sans-serif;
+  text-align: left;
+  margin: 10px 50px;
+}
+
+.page-title {
+  margin: 20px 0;
+}
